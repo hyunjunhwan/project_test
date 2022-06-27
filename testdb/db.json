@@ -1,0 +1,9 @@
+{
+    "users": [
+      {
+        "id": "react",
+        "password": "1234",
+        "name": "현"
+      }
+    ]
+  }
